@@ -9,6 +9,7 @@ This repository provides a reference implementation of *HireGC* as described in 
 * scikit-learn 0.20.3
 * networkx 2.4
 * theano 1.0.5
+* torch 1.4.0
 
 #### **How To Run Node Classification**
 Use `python main.py` to run the code with all the default settings. Here are some useful arguments that can be passed to the program:
@@ -29,12 +30,5 @@ Use `python linktrain.py` to run the code with all the default settings. Here ar
 
 
 ## **If you find *HireGC* useful in your research, please cite our paper:**
-@article{zhao2025hiregc,
-  title={HireGC: Hierarchical inductive network representation learning via graph coarsening},
-  author={Zhao, Shu and Xu, Ci and Du, Ziwei and Zhang, Yanping and Duan, Zhen and Chen, Jie},
-  journal={Knowledge-Based Systems},
-  pages={113058},
-  year={2025},
-  publisher={Elsevier}
-}
+Zhao S, Xu C, Du Z, et al. HireGC: Hierarchical inductive network representation learning via graph coarsening[J]. Knowledge-Based Systems, 2025: 113058.
  
